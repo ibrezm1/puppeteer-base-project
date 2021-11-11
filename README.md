@@ -24,6 +24,11 @@ google-chrome --remote-debugging-port=9222
 ```
 DevTools listening on ws://127.0.0.1:9222/devtools/browser/df6d14b2-7d88-4077-ab11-c70fc08f3432
 ```
+You can also use in the below urls for accessesing versions and tabs information
+```
+http://127.0.0.1:9222/json
+http://127.0.0.1:9222/json/version
+```
 4. Connect to your session using 
 ```
 const wsChromeEndpointurl = 'ws://localhost:9222/devtools/browser/41a0b5f0–6747–446a-91b6–5ba30c87e951';
