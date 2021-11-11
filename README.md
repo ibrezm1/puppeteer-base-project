@@ -1,7 +1,7 @@
 # puppeteer-base-project
 
 Simple base project showing puppeteer from [here](https://medium.com/@jaredpotter1/connecting-puppeteer-to-existing-chrome-window-8a10828149e0)
-
+ and [here](https://jsoverson.medium.com/using-chrome-devtools-protocol-with-puppeteer-737a1300bac0)
 ```
 npm install
 
